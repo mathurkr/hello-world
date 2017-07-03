@@ -1,2 +1,4 @@
 # hello-world
-tutorial repo
+Hey,
+So I'm finally learning how to use github.
+OK, Bye
