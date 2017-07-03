@@ -1,0 +1,6 @@
+class Sample:
+	def __init__(a,b):
+		self.a=a
+		self.b=b
+	def add_samples(self,b):
+		return Sample(self.a+b.a,self.b+b.b)
